@@ -1,3 +1,3 @@
 # 2132ReconocimientoPatrones
 
-## Universidad Autonoma de Guadalajara
+## Universidad Autónoma de Guadalajara
